@@ -7,7 +7,7 @@ namespace BlackJackV2
         static void Main(string[] args)
         {
             // Start of the BlackJack Game
-            // Made by Vitaliy Vuychych
+            // Made by VitaePrimus
 
             Deck playDeck = new Deck();
             Rules gameRules = new Rules();
@@ -233,13 +233,6 @@ namespace BlackJackV2
             Console.ReadKey();
         }
 
-        //Notes to self
-        //1150 - intro to web dev (summer)
-        //2351 - into to data base (summer)
-        //2650 - Java (16 week is best) !!! take during autumn
-        //1090 - DO NOT TAKE
-        //2320 - AFTER 1150 more interactive web development
-        //2660 - data structures after 2650
 
 
         //public void NotesOfWorkflow()
