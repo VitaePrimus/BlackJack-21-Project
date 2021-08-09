@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YSDgjLFh6R6/vL3dqAvuyW9pZHakH3Vu6Hno3B9XQSeMqXw7qSYhlpuZl3qDXsSMwy656Fk+7BAvsZiR0STe0A==",
+  "success": true,
+  "projectFilePath": "D:\\Vitaliy\\School\\IT-1050\\Projects\\BlackJackV2\\BlackJackV2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vital\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
